@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativePhotoApp'
+
+include ':app'
